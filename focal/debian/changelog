@@ -1,3 +1,9 @@
+sdformat10 (10.2.0-1~focal) focal; urgency=medium
+
+  * sdformat10 10.2.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 13 Jan 2021 19:07:02 -0800
+
 sdformat10 (10.1.0-1~focal) focal; urgency=medium
 
   * sdformat10 10.1.0-1 release
