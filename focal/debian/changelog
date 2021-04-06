@@ -1,3 +1,9 @@
+sdformat10 (10.4.0-1~focal) focal; urgency=medium
+
+  * sdformat10 10.4.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Tue, 06 Apr 2021 13:58:18 -0800
+
 sdformat10 (10.3.0-1~focal) focal; urgency=medium
 
   * sdformat10 10.3.0-1 release
