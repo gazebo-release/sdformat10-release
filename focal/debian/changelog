@@ -1,3 +1,9 @@
+sdformat10 (10.5.0-1~focal) focal; urgency=medium
+
+  * sdformat10 10.5.0-1 release
+
+ -- Ian Chen <ichen@openrobotics.org>  Mon, 17 May 2021 17:08:33 -0700
+
 sdformat10 (10.4.0-1~focal) focal; urgency=medium
 
   * sdformat10 10.4.0-1 release
