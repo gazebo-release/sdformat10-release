@@ -12,6 +12,7 @@ Build-Depends: cmake,
                texlive-fonts-recommended,
                texlive-latex-extra,
                ruby,
+               libignition-cmake2-dev (>= 2.10.0),
                libignition-tools-dev,
                libignition-math6-dev
 Vcs-Browser: https://github.com/ignition-release/sdformat10-release
@@ -47,6 +48,7 @@ Package: libsdformat10-dev
 Architecture: any
 Section: libdevel
 Depends: libtinyxml2-dev,
+         libignition-cmake2-dev (>= 2.10.0),
          libignition-tools-dev,
          libignition-math6-dev,
          libsdformat10 (= ${binary:Version}),
